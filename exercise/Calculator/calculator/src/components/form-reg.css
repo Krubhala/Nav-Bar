@@ -1,0 +1,19 @@
+.body{
+    background-color: aquamarine;
+}
+
+
+.container{
+ width: 300;
+height:500;
+border-radius: 2px;
+}
+
+
+.on-field{
+    width: 80%;
+    height:40%;
+    padding: 15px 22px;
+    margin: 10px 5px;
+    box-sizing: border-box;  
+}

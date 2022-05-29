@@ -1,0 +1,12 @@
+.body{
+    background-color: grey;
+}
+
+.container{
+    grid-template-columns: 200px 200px;
+}
+
+.answer-section{
+    grid-column-start:2;
+    grid-column-end: 2;
+}
